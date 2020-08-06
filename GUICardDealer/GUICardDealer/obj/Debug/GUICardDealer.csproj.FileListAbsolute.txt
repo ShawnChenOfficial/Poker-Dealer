@@ -1,0 +1,25 @@
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csprojAssemblyReference.cache
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.Properties.Resources.resources
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csproj.GenerateResource.cache
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csproj.CoreCompileInputs.cache
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.exe
+H:\BIT it607src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.exe.config
+H:\BIT it607src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.exe
+H:\BIT it607src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.pdb
+H:\BIT it607src\GUICardDealer\GUICardDealer\bin\Debug\PlayingCard.dll
+H:\BIT it607src\GUICardDealer\GUICardDealer\bin\Debug\PlayingCard.pdb
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csproj.CopyComplete
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.pdb
+H:\BIT it607src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.CardDealer.resources
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.exe.config
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.exe
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\bin\Debug\GUICardDealer.pdb
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\bin\Debug\PlayingCard.dll
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\bin\Debug\PlayingCard.pdb
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.CardDealer.resources
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.Properties.Resources.resources
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csproj.GenerateResource.Cache
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csproj.CoreCompileInputs.cache
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.exe
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.pdb
+C:\Shawn IT607 src\GUICardDealer\GUICardDealer\obj\Debug\GUICardDealer.csprojResolveAssemblyReference.cache
